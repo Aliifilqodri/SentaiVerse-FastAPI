@@ -52,12 +52,6 @@ uvicorn app.main:app --reload
 
 ---
 
-## 📸 Cuplikan UI (tambahkan nanti)
-
-![Preview Screenshot](static/images/sakura.jpg)
-
----
-
 ## 🙌 Credits
 
 Dibuat dengan semangat nostalgia dan cinta pada Tokusatsu!
